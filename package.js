@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'dangrossman:bootstrap-daterangepicker',
-  version: '2.1.17',
+  name: 'eve-corp:bootstrap-daterangepicker',
+  version: '2.1.18',
   summary: 'Date range picker component for Bootstrap',
-  git: 'https://github.com/dangrossman/bootstrap-daterangepicker',
+  git: 'https://github.com/eve-corp/bootstrap-daterangepicker',
   documentation: 'README.md'
 });
 
